@@ -11,4 +11,7 @@ __pycache__/
 .ipynb_checkpoints
 .DS_Store
 
+# Python virtual environments
+venv/
+
 ## Gemfile.lock
