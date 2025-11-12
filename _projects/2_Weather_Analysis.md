@@ -1,8 +1,8 @@
 ---
-name: United States Iather Interactive Analysis
+name: United States Weather Interactive Analysis
 tools: [Python, Pandas, Altair, Vega-Lite]
 image: 
-description: This is an analysis of the Iather data in the United States using Altair and Vega-Lite for interactive visualizations.
+description: This is an analysis of the Weather data in the United States using Altair and Vega-Lite for interactive visualizations.
 custom_js:
   - vega.min
   - vega-lite.min
@@ -11,7 +11,7 @@ custom_js:
 ---
 
 
-# United States Iather Interactive Analysis
+# United States Weather Interactive Analysis
 ## Chart 1:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/state_temperature_interactive.json" style="width: 100%"></vegachart>
 
